@@ -3,6 +3,7 @@ languageCode = 'ja'
 title = 'バタコのチラ裏'
 defaultContentLanguage = 'ja'
 hasCJKLanguage = true
+theme = 'ananke'
 
 [languages]
   [languages.ja]
