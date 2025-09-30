@@ -2,9 +2,13 @@
 title = "hugoテンプレート"
 date = "2025-09-30"
 description = ""
-tags = []
-categories = []
-series = ["hugo"]
+categories = [
+  "Web開発",
+]
+tags = [
+  "Hugo",
+]
+series = []
 +++
 
 ## シンプルで良さそう
