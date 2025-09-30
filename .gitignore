@@ -1,3 +1,4 @@
 .hugo_build.lock
+/assets/jsconfig.json
 /public/
 /resources/_gen/
