@@ -1,21 +1,22 @@
 +++
-date = '2025-09-29'
-draft = false
-title = 'hugoで静的サイト作ってみた'
+title = "hugoで静的サイト作ってみた"
+date = "2025-09-29"
+description = ""
+tags = []
+categories = []
+series = ["hugo"]
 +++
 
 ## インストール
 
 ```bash
 brew install hugo
-# 動作確認
-hugo version
 ```
 
 ## サイト生成
 
 ```bash
-hugo new site LogGeyser
+hugo new site quickstart
 ```
 
 ## テーマ反映
@@ -35,7 +36,7 @@ theme = 'ananke'
 ## 記事の作成
 
 ```bash
-hugo new posts/2025-09-29.md
+hugo new content content/posts/my-first-post.md
 ```
 
 ## サーバ起動
@@ -43,3 +44,7 @@ hugo new posts/2025-09-29.md
 ```bash
 hugo serve -D
 ```
+
+## リンク
+
+- [Quick start](https://gohugo.io/getting-started/quick-start/)
