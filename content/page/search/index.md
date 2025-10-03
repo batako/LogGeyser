@@ -1,5 +1,6 @@
 ---
 title: "Search"
+date: 2025-09-29
 slug: "search"
 layout: "search"
 outputs:
