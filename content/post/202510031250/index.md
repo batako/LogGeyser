@@ -12,7 +12,7 @@ tags:
 series:
 ---
 
-このサイトはhugoで[hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack?tab=readme-ov-file)テンプレート使って作ってるんだけど、コメント機能を簡単に追加できそうだったので追加してみた。
+このサイトは[hugo](https://gohugo.io)で[hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack?tab=readme-ov-file)テンプレート使って作ってるんだけど、コメント機能を簡単に追加できそうだったので追加してみた。
 
 候補は色々あったけど、簡単で無料で追加できるGiscusを選択。GithubのDiscussions上にコメントしていく形式のもの。Issuesに作成するUtterancesってのもある。
 
