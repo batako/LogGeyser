@@ -1,15 +1,15 @@
-+++
-title = "hugoテンプレート"
-date = "2025-09-30"
-description = ""
-categories = [
-  "Web開発",
-]
-tags = [
-  "Hugo",
-]
-series = []
-+++
+---
+title: hugoテンプレート
+description:
+date: 2025-09-30
+slug:
+image: thumbs/webdev.webp
+categories:
+  - Web開発
+tags:
+  - hugo
+series:
+---
 
 ## シンプルで良さそう
 

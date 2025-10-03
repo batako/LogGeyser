@@ -3,7 +3,7 @@ title: リングフィット１００日目
 description:
 date: 2025-10-03
 slug:
-image: RingFit-Adventure.webp
+image: thumbs/RingFit-Adventure.webp
 categories:
   - 日記
 tags:

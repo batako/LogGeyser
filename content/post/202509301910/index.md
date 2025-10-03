@@ -1,17 +1,17 @@
-+++
-title = "GithubとAmplifyを連携して自動で静的サイトを公開"
-date = "2025-09-30"
-description = ""
-categories = [
-  "Web開発",
-]
-tags = [
-  "amplify",
-  "aws",
-  "hugo",
-]
-series = []
-+++
+---
+title: GithubとAmplifyを連携して自動で静的サイトを公開
+description:
+date: 2025-09-30
+slug:
+image: thumbs/webdev.webp
+categories:
+  - Web開発
+tags:
+  - amplify
+  - aws
+  - hugo
+series:
+---
 
 ## 静的サイトを作成してGithubにプッシュする
 

@@ -1,17 +1,17 @@
-+++
-title = "AmplifyのStorageなかなかよさげ"
-date = "2025-10-02"
-description = ""
-categories = [
-  "Web開発",
-]
-tags = [
-  "BearyHealth",
-  "amplify",
-  "aws",
-]
-series = []
-+++
+---
+title: AmplifyのStorageなかなかよさげ
+description:
+date: 2025-10-02
+slug:
+image: thumbs/webdev.webp
+categories:
+  - Web開発
+tags:
+  - BearyHealth
+  - amplify
+  - aws
+series:
+---
 
 モバイルアプリを作ろうとしてて、DBを何にするか色々見てたらAmplify Storageで実装すると楽できて良さそうだった。
 

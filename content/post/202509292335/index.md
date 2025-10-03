@@ -1,15 +1,15 @@
-+++
-title = "hugoで静的サイト作ってみた"
-date = "2025-09-29"
-description = ""
-categories = [
-  "Web開発",
-]
-tags = [
-  "Hugo",
-]
-series = []
-+++
+---
+title: hugoで静的サイト作ってみた
+description:
+date: 2025-09-29
+slug:
+image: thumbs/webdev.webp
+categories:
+  - Web開発
+tags:
+  - hugo
+series:
+---
 
 ## インストール
 

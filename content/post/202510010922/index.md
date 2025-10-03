@@ -3,7 +3,7 @@ title: リングフィットまたやり始めた
 description:
 date: 2025-10-01
 slug:
-image: RingFit-Adventure.webp
+image: thumbs/RingFit-Adventure.webp
 categories:
   - 日記
 tags:
