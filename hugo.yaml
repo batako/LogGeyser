@@ -76,7 +76,7 @@ params:
 
     comments:
         enabled: true
-        provider: disqus
+        provider: giscus
 
         disqusjs:
             shortname:
@@ -137,13 +137,13 @@ params:
             siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
 
         giscus:
-            repo:
-            repoID:
-            category:
-            categoryID:
-            mapping:
-            lightTheme:
-            darkTheme:
+            repo: batako/LogGeyser
+            repoID: R_kgDOP4-ueg
+            category: comments
+            categoryID: DIC_kwDOP4-ues4CwMIE
+            mapping: title
+            lightTheme: light
+            darkTheme: dark
             reactionsEnabled: 1
             emitMetadata: 0
 
