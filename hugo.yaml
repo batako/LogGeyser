@@ -139,7 +139,7 @@ params:
         giscus:
             repo: batako/LogGeyser
             repoID: R_kgDOP4-ueg
-            category: comments
+            category: Comments
             categoryID: DIC_kwDOP4-ues4CwMIE
             mapping: title
             lightTheme: light
